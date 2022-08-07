@@ -1,0 +1,1 @@
+document.querySelector("body > main > div.flex-shrink-0.p-3.bg-white")
