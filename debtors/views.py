@@ -11,3 +11,9 @@ def chart(request):
 
 def page404(request):
     return render(request, 'debtors/404.html')
+
+def signin(request):
+    return render(request, 'debtors/signin.html')
+
+def signup(request):
+    return render(request, 'debtors/signup.html')
